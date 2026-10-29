@@ -1,0 +1,16 @@
+ li{
+    color: brown;
+    background-color: beige;
+    font-size: 20px;
+}
+
+.name {
+    color: coral;
+    background-color: aqua;
+}
+
+#para{
+    color: chartreuse;
+    background-color: whitesmoke;
+    font-style: italic;
+}
